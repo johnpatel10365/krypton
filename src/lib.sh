@@ -43,3 +43,4 @@ echo "krypton"
 # guard against empty input
 # guard against empty input
 # guard against empty input
+# guard against empty input
